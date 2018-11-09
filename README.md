@@ -25,3 +25,24 @@ http://localhost:63577/SSOcallback.aspx
 請參考 http://studyhost.blogspot.com/2018/10/googlesso.html
 
 ### 取的 Update
+
+
+## AA
+ ### G
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## BB
+
+  ### G

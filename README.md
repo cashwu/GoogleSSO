@@ -24,4 +24,4 @@ http://localhost:63577/SSOcallback.aspx
 ## 程式碼說明
 請參考 http://studyhost.blogspot.com/2018/10/googlesso.html
 
-### Get & Update
+### 取的 Update

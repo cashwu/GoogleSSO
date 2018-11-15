@@ -30,7 +30,7 @@ http://localhost:63577/SSOcallback.aspx
 ## AA
  ### G
  
-
+[TEST](/WebApplication1/Views/Web.config)
 
 
 
